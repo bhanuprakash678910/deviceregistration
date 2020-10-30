@@ -1,0 +1,2 @@
+# deviceregistration
+for mobiledevelopment
